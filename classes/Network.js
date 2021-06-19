@@ -1,10 +1,9 @@
 const haversine = require('haversine');
 const sleep = require('sleep');
-
 const Device = require('./Device');
 const Gateway = require('./Gateway');
 const MobileDevice = require('./MobileDevice');
-
+const { performance } = require('perf_hooks');
 class Network {
   constructor(devices, mobileDevices, gateways) {
     this.devices = devices.map((device) => {
@@ -128,12 +127,40 @@ class Network {
         throughput: this.gateways[2].output,
         connectedDevices: this.gateways[2].devices.length,
       },
+      {
+        gateway: this.gateways[3].id,
+        throughput: this.gateways[3].output,
+        connectedDevices: this.gateways[3].devices.length,
+      },
+      {
+        gateway: this.gateways[4].id,
+        throughput: this.gateways[4].output,
+        connectedDevices: this.gateways[4].devices.length,
+      },
+      {
+        gateway: this.gateways[5].id,
+        throughput: this.gateways[5].output,
+        connectedDevices: this.gateways[5].devices.length,
+      },
+      {
+        gateway: this.gateways[6].id,
+        throughput: this.gateways[6].output,
+        connectedDevices: this.gateways[6].devices.length,
+      },
     ];
 
     const mobileData = [
       {
         mobileDeviceId: this.mobileDevices[0].id,
         connectedGateway: this.mobileDevices[0].gateway.id,
+      },
+      {
+        mobileDeviceId: this.mobileDevices[1].id,
+        connectedGateway: this.mobileDevices[1].gateway.id,
+      },
+      {
+        mobileDeviceId: this.mobileDevices[2].id,
+        connectedGateway: this.mobileDevices[2].gateway.id,
       },
     ];
     console.table(gatewayData);
@@ -142,17 +169,20 @@ class Network {
 
   run = (io) => {
     this.initialize();
+    console.log(this.devices.length);
     for (
       let index = 0;
       index < this.mobileDevices[0].trajectory.length;
       index++
     ) {
+      const t0 = performance.now();
       this.simulate(index);
+      const t1 = performance.now();
       const gatewayData = this.gateways.map((gateway) => {
         return {};
       });
-      io.emit('hi', { devices: [{ id: 1, location: [] }] });
-      sleep.msleep(1000);
+      console.log(t1 - t0);
+      sleep.sleep(1); // every 10 sec check mobile
     }
   };
 }

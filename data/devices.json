@@ -1,20 +1,1142 @@
+{"devices":[
+  {
+  
+    "id": 1,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.200705409049988,
+      38.457323248803725
+    ]
+  
+},
 {
-  "devices": [
-    { 
-      "id":1,
+
+    "id": 2,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.19992756843567,
+      38.457667707309575
+    ]
+
+},
+{
+
+    "id": 3,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.20014214515686,
+      38.458600257449504
+    ]
+
+},
+{
+
+    "id": 4,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.19916045665741,
+      38.45808777643229
+    ]
+
+},
+{
+
+    "id": 5,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.199450135231015,
+      38.457167821866236
+    ]
+
+},
+{
+
+    "id": 6,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.199718356132507,
+      38.45642848914628
+    ]
+
+},
+{
+
+    "id": 7,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.200925350189205,
+      38.458436431946446
+    ]
+
+},
+{
+
+    "id": 8,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.19987392425537,
+      38.45915054038985
+    ]
+
+},
+{
+
+    "id": 9,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.199718356132507,
+      38.459797432524326
+    ]
+
+},
+{
+
+    "id": 10,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.201231122016907,
+      38.45985624061252
+    ]
+
+},
+{
+
+    "id": 11,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.201504707336422,
+      38.45898671613653
+    ]
+
+},
+{
+
+    "id": 12,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.19863474369049,
+      38.45946978658383
+    ]
+
+},
+{
+
+    "id": 13,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.19811975955963,
+      38.45877668449823
+    ]
+
+},
+{
+
+    "id": 14,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.197744250297546,
+      38.45952859493916
+    ]
+
+},
+{
+
+    "id": 15,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.201767563819885,
+      38.46043171723119
+    ]
+
+},
+{
+
+    "id": 16,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.203264236450195,
+      38.459079129863646
+    ]
+
+},
+{
+
+    "id": 17,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.203258872032166,
+      38.45762990096856
+    ]
+
+},
+{
+
+    "id": 18,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.205474376678467,
+      38.45954119672336
+    ]
+
+},
+{
+
+    "id": 19,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.20292627811432,
+      38.45988144406422
+    ]
+
+},
+{
+
+    "id": 20,
+    "gateway":null,
+    "class":"trash-bin",
+    "marker-color":"#939598",
+    "location": [
+      
+      
+      27.202212810516357,
+      38.45851204376331
+    ]
+
+},
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 21,
+    "gateway":null,
+    "location": [
+      
+      
+      27.200506925582882,
+      38.45629406420136
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 22,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201032638549805,
+      38.456445292246805
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 23,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201493978500363,
+      38.45659651997525
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 24,
+    "gateway":null,
+    "location": [
+      
+      
+      27.20185875892639,
+      38.45672254284012
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 25,
+    "gateway":null,
+    "location": [
+      
+      
+      27.20212697982788,
+      38.45680655796109
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 26,
+    "gateway":null,
+    "location": [
+      
+      
+      27.20211625099182,
+      38.457201427718935
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 27,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201955318450928,
+      38.45749547826227
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 28,
+    "gateway":null,
+    "location": [
+      
+      
+      27.20138669013977,
+      38.45699979236794
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 29,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201236486434937,
+      38.45725183646862
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 30,
+    "gateway":null,
+    "location": [
+      
+      
+      27.20088243484497,
+      38.45681495946778
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+  
+  
+    "id": 31,
+    "gateway":null,
+    "location": [
+      
+      
+      27.200303077697754,
+      38.45665533067291
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+  
+  
+    "id": 32,
+    "gateway":null,
+    "location": [
+      
+      
+      27.2001314163208,
+      38.45699139088275
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 33,
+    "gateway":null,
+    "location": [
+      
+      
+      27.200775146484375,
+      38.45731064663208
+    ]
+  },
+
+{
+  
+  
+  
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+  
+  
+    "id": 34,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201601266860962,
+      38.45764670378925
+    ]
+  },
+
+{
+    "class": "street lamp",
+    "marker-color":"#FFF101",
+    
+    "id": 35,
+    "gateway":null,
+    "location": [
+      
+      
+      27.201257944107052,
+      38.45810037846817
+    ]
+  },
+  {
+    
+      
+    
+      "class": "bus stop",
+      "marker-color":"#98479B",
+      "id": 36,
+      "gateway":null,
       "location": [
-        38.45994025208391,
-        27.202577590942383
-      ],
-        "gateway":null
-    },
-    {
-      "id":2,
+        
+        
+        27.200721502304077,
+        38.4606795488132
+      ]
+    
+  },
+  {
+    
+      
+  
+      "class": "bus stop",
+      "marker-color":"#98479B",
+      "id": 37,
+      "gateway":null,
       "location": [
-        38.45930176244733,
-        27.204744815826416
-      ],
-        "gateway":null
-    }
-  ]
-}
+        
+        
+        27.20066785812378,
+        38.460956783133184
+      ]
+    
+  },
+  {
+    
+      
+
+      "class": "bus stop",
+      "marker-color":"#98479B",
+      "id": 38,
+      "gateway":null,
+      "location": [
+        
+        
+        27.201413512229916,
+        38.46108909913757
+      ]
+    
+  },
+  {
+    
+      
+    
+      "class": "bus stop",
+      "marker-color":"#98479B",
+      "id": 39,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199573516845703,
+        38.46116260792401
+      ]
+    
+  },
+  {
+    
+      
+    
+      "class": "bus stop",
+      "marker-color":"#98479B",
+      "id": 40,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199321389198303,
+        38.461133204418424
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "traffic lamp",
+      "marker-color":"#F48038",
+    
+    
+      "id": 41,
+      "gateway":null,
+      "location": [
+        
+        
+        27.1994286775589,
+        38.46070055145049
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "traffic lamp",
+      "marker-color":"#F48038",
+    
+    
+      "id": 42,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199686169624325,
+        38.46059973873568
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "traffic lamp",
+      "marker-color":"#F48038",
+    
+    
+      "id": 43,
+      "gateway":null,
+      "location": [
+        
+        
+        27.196505069732666,
+        38.460385511248845
+      ]
+    
+  },
+  {
+   
+      
+      "class": "charge station for drone",
+      "marker-color":"#00A54F",
+      "id": 44,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19854354858398,
+        38.455445500955456
+      ]
+   
+  },
+  {
+   
+      
+      "class": "charge station for drone",
+      "marker-color":"#00A54F",
+      "id": 45,
+      "gateway":null,
+      "location": [
+        
+        
+        27.195754051208496,
+        38.45871367488752
+      ]
+   
+  },
+  {
+    
+    
+      "class": "charge station",
+      "marker-color":"#EE1D23",
+    
+    
+      "id": 46,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19390869140625,
+        38.45934376851816
+      ]
+    
+  },
+  {
+    
+    
+      "class": "charge station",
+      "marker-color":"#EE1D23",
+    
+    
+      "id": 47,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19611883163452,
+        38.456546110767654
+      ]
+    
+  },
+  {
+    
+    
+      "class": "charge station",
+      "marker-color":"#EE1D23",
+    
+    
+      "id": 48,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19990611076355,
+        38.461032392308276
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":49 ,
+      "gateway":null,
+      "location": [
+        
+        
+        27.195786237716675,
+        38.457604696730215
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":50,
+      "gateway":null,
+      "location": [
+        
+        
+        27.195732593536377,
+        38.456386481377905
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":51 ,
+      "gateway":null,
+      "location": [
+        
+        
+        27.193758487701416,
+        38.455815173299406
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":52 ,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19692349433899,
+        38.45983943830649
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":53 ,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19737410545349,
+        38.45987304291462
+      ]
+    
+  },
+  {
+    
+      
+      "class": "smart parking",
+      "marker-color":"#B6301C",
+    
+      "id":54 ,
+      "gateway":null,
+      "location": [
+        
+        
+        27.195292711257935,
+        38.455117835248856
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 55,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199981212615967,
+        38.45623525320917
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 56,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19986319541931,
+        38.4565503115363
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 57,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199782729148865,
+        38.45679395569917
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 58,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200061678886414,
+        38.45680655796109
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 59,
+      "gateway":null,
+      "location": [
+        
+        
+        27.20016360282898,
+        38.45662172456582
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 60,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200286984443665,
+        38.45631506811553
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 61,
+      "gateway":null,
+      "location": [
+        
+        
+        27.19965934753418,
+        38.45716152076712
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 62,
+      "gateway":null,
+      "location": [
+        
+        
+        27.1998792886734,
+        38.45726233828704
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 63,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200075089931488,
+        38.45726653901397
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 64,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200329899787903,
+        38.45734215205707
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 65,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200254797935486,
+        38.45759629531548
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 66,
+      "gateway":null,
+      "location": [
+        
+        
+        27.200002670288086,
+        38.45749967897561
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 67,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199865877628326,
+        38.457453471115166
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 68,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199696898460385,
+        38.457415664661866
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 69,
+      "gateway":null,
+      "location": [
+        
+        
+        27.199597656726837,
+        38.45741986537987
+      ]
+    
+  },
+  {
+    
+    
+      
+      "class": "utility meter",
+      "marker-color":"#0072BC",
+    
+      "id": 70,
+      "gateway":null,
+      "location": [
+        
+        
+        27.1995198726654,
+        38.4573505535014
+      ]
+    
+  }
+]}

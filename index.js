@@ -6,18 +6,20 @@ const { devices } = require('./data/devices.json');
 const { gateways } = require('./data/gateways.json');
 const { mobileDevices } = require('./data/mobileDevices.json');
 const Network = require('./classes/Network');
-
 const network = new Network(devices, mobileDevices, gateways);
-
-app.get('/', (req, res) => {
-  res.json('hi');
+network.run();
+app.get('/', function (req, res) {
+  res.send('index.html');
 });
 
-io.on('connection', (socket) => {
-  socket.emit('welcome', { message: 'Welcome!', id: socket.id });
-});
+http.listen(3000, function () {});
+io.on('connection', function (socket) {
+  console.log('A user connected');
 
-http.listen(3000, () => {
-  console.log('Server Has Started!');
+  socket.emit('mobileDevices', network.mobileDevices);
+  socket.emit('gateways', network.gateways);
+  //Whenever someone disconnects this piece of code executed
+  socket.on('disconnect', function () {
+    console.log('A user disconnected');
+  });
 });
-network.run(io);
