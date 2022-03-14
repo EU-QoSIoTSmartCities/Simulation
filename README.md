@@ -1,5 +1,7 @@
 # smart-cities-simulation
 
+![Alt text](https://6141e9a586468835c67c02a1--lean-simulation-vr.netlify.app/eu.png "EU")
+
 You have to install Node:14 and NPM to run your simulations.
 https://nodejs.org/en/
 
